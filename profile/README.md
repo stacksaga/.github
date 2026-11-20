@@ -9,8 +9,8 @@
 <div align="center">
 
 [![License: SSAL-1.0](https://img.shields.io/badge/License-SSAL--1.0-28B76B.svg)](https://stacksaga.org/legal/license/ssal-1.0)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.x-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Java](https://img.shields.io/badge/Java-21%2B-ED8B00?logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Project Reactor](https://img.shields.io/badge/Project%20Reactor-Natively%20Reactive-28B76B)](https://projectreactor.io/)
 [![Docs](https://img.shields.io/badge/Docs-docs.stacksaga.org-28B76B)](https://docs.stacksaga.org)
 [![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?logo=github)](https://github.com/stacksaga/stacksaga-community/discussions)
@@ -64,7 +64,7 @@ Strongly-typed `CommandExecutor<T>` and `QueryExecutor<T>` generics with compile
 → [Executor Architecture](https://docs.stacksaga.org/stacksaga/latest/implementations/stacksaga-sync/orchestrator/executor_architecture.html)
 
 ### 🏗️ Domain-Centric — Monolith to Microservices, Zero Rewrites
-Run as an in-process Modular Monolith at `<1ms` speeds today. When you extract a module into a standalone microservice, your saga pipelines, compensations, and event log stay **100% intact**.
+Run as an in-process Modular Monolith at `<1ms` speeds today. When you extract a module into a standalone microservice, your saga pipelines, compensations, and event log stay **100% intact**. Requires Java 21+ and Spring Boot 4.x.
 → [Architecture Overview](https://docs.stacksaga.org/stacksaga/latest/architecture.html)
 
 ### 🔄 1-to-Many Multi-Stage Compensations
