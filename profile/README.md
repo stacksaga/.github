@@ -15,6 +15,7 @@
 [![Docs](https://img.shields.io/badge/Docs-docs.stacksaga.org-28B76B)](https://docs.stacksaga.org)
 [![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?logo=github)](https://github.com/stacksaga/stacksaga-community/discussions)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-stacksaga-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/stacksaga)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-stacksaga-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/search?q=stacksaga)
 </div>
 
 ---
